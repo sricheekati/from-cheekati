@@ -25,3 +25,20 @@ The places to visit near the restaruant are :
 ### Additional Links
 
 - [Visit MyMedia](paste_media_url_here) for more about me.
+
+
+---
+## Melodious Telugu Song Recommendations
+
+Indulge in the soulful and melodious tunes of Telugu music with these enchanting songs. Each recommendation showcases the beauty of melody, capturing emotions and creating a serene musical experience.
+<br>
+<br>
+
+| **Title**                      | **Reason for Recommendation**                                        | **Artist**               |
+|-------------------------------|-------------------------------------------------------------------|--------------------------|
+| "Ninnu Kori Varnam"           | A classic melody that beautifully expresses love and longing.      | Gopika Poornima          |
+| "Nee Kallalona"               | A heartfelt romantic song with soothing vocals and touching lyrics. | Hemachandra, Shreya Ghoshal |
+| "Inkem Inkem Inkem Kaavaale"  | A popular and soul-stirring melody that became an instant hit.     | Sid Sriram               |
+| "Ye Chota Nuvvunna"           | A serene and romantic melody that captures the essence of love.    | Chinmayi Sripaada, Anurag Kulkarni |
+
+---
