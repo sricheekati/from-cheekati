@@ -15,3 +15,10 @@ The dishes that I can get in my favorite Restaruant in my order of preference ar
 2. **Pulihora (Tamarind Rice)**
 3. **Pesarattu**
 
+###### Unordered List
+The places to visit near the restaruant are :
+
+- **Golconda Fort**
+- **KBR Park**
+- **Charminar**
+
