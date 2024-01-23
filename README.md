@@ -9,7 +9,7 @@ We had a couple of tries and all the dishes were really delicious.<br>
 
 ---
 # Dishes
-
+###### Ordered List
 The dishes that I can get in my favorite Restaruant in my order of preference are:
 1. **Biryani**
 2. **Pulihora (Tamarind Rice)**
