@@ -52,3 +52,13 @@ Explore a couple of my favorite quotes that carry wisdom and inspiration.
 
 > "Your time is limited, don't waste it living someone else's life."
 > - *Steve Jobs*
+
+---
+## JavaScript Code Snippet: Add Classes to Element
+
+ this line of code dynamically adds the CSS classes "active" and "highlighted" to the specified HTML element, allowing you to apply corresponding styles or behaviors to the element based on the rules defined for those classes in the associated CSS stylesheet.
+
+```javascript
+element.classList.add("active", "highlighted");
+```
+[For more details follow this link and check snippet 17](https://code.pieces.app/collections/javascript)
