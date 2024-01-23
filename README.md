@@ -7,3 +7,11 @@ We had a couple of tries and all the dishes were really __delicious__.<br>
 The food menu at this restaurant is very modern and unique. <br>
 We had a couple of tries and all the dishes were really delicious.<br>
 
+---
+# Dishes
+
+The dishes that I can get in my favorite Restaruant in my order of preference are:
+1. **Biryani**
+2. **Pulihora (Tamarind Rice)**
+3. **Pesarattu**
+
