@@ -42,3 +42,13 @@ Indulge in the soulful and melodious tunes of Telugu music with these enchanting
 | "Ye Chota Nuvvunna"           | A serene and romantic melody that captures the essence of love.    | Chinmayi Sripaada, Anurag Kulkarni |
 
 ---
+---
+## Favorite Quotes
+
+Explore a couple of my favorite quotes that carry wisdom and inspiration.
+
+> "Believe you can and you're halfway there."
+> - *Theodore Roosevelt*
+
+> "Your time is limited, don't waste it living someone else's life."
+> - *Steve Jobs*
